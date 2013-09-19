@@ -13,7 +13,7 @@ id: "9dots-OHqXwKS"
 ## Introduce
 introduces<!-- -->
 ## Explore
-<!-- -->
+explore<!-- -->
 ## Inquire
 <!-- -->
 ## Innovate
