@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-title: "Interactive Zine:  Scratch & Makey Makey"
+title: "Interactive Zine: Part 2"
 blurb: "This is a summary with a #tag This is a summary with a #tag This is a summary with a #tag This is a summary with a #tag This is a summary wi"
 org: 9dots
 objective: Objective
