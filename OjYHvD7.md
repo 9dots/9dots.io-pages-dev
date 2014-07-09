@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Interactive Zine Part 2: Adding Scratch & the Makey Makey"
 blurb: "This is a summary with a #tag This is a summary with a #tag This is a summary with a #tag This is a summary with a #tag This is a summary wi"
