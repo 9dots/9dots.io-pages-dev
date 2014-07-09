@@ -4,7 +4,7 @@ views: 0
 published: false
 type: lesson
 title: "Interactive Zine Part 2: Adding Scratch & the Makey Makey"
-blurb: "This is a summary with a #tag"
+blurb: "This is a summary with a #tag This is a summary with a #tag This is a summary with a #tag This is a summary with a #tag This is a summary wi"
 org: 9dots
 objective: Objective
 id: "9dots-OjYHvD7"
