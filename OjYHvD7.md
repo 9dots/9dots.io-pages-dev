@@ -3,8 +3,8 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-title: "Interactive Zine: Part 2"
-blurb: Students will learn about how to create a stop motion animation with legos and their computers.
+title: "Cardboard Robots: Moving Parts"
+blurb: "Students will learn how to create moveable parts on their robots by adding #MakeDo hinges."
 org: 9dots
 objective: Objective
 id: "9dots-OjYHvD7"
