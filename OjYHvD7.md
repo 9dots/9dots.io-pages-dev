@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: "Cardboard Robots: Moving Parts"
-blurb: "Students will learn how to create moveable parts on their robots by adding #MakeDo hinges."
+blurb: "Students will learn how to create moveable parts on their robots by adding #MakeDo hinges. I have to finish writing to see how much space it"
 org: 9dots
 objective: Objective
 id: "9dots-OjYHvD7"
