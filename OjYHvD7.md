@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: "Interactive Zine: Part 2"
-blurb: "This is a summary with a #tag This is a summary with a #tag This is a summary with a #tag This is a summary with a #tag This is a summary wi"
+blurb: Students will learn about how to create a stop motion animation with legos and their computers.
 org: 9dots
 objective: Objective
 id: "9dots-OjYHvD7"
