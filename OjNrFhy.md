@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Editing: Finish Project"
 objective: "By the end of the lesson, students will be able to finish editing their videos by completing the editing checklist, and use a title to show the ending credits for their movie."
