@@ -11,61 +11,47 @@ id: "9dots-OjYHvD7"
 
 ---
 
-## Materials:
+## Materials
 
-- Legos
-- Computers with iMovie and Photobooth
+- Cardboard
+- MakeDo pieces
+- Tape
 
-## Stop Motion Examples:
-- [Deadline Stop Motion Video](http://www.youtube.com/watch?v=BpWM0FNPZSs)
-- [Summer Nights Stop Motion Video](http://www.youtube.com/watch?v=_whyjdt5Qso)
-- [In Your Arms Video](http://www.youtube.com/watch?v=IOu0DuxFAT0)
-- [Making of In Your Arms Video](http://www.youtube.com/watch?v=cIH4MJAC2Tg&feature=youtu.be)
-- [T-Shirt War Video](http://www.youtube.com/watch?v=DKWdSCt4jGE)
-- [Wallace and Gromit Video](http://www.youtube.com/watch?v=CJDhmlMQT60)
-- [Box Trolls Trailer](http://www.youtube.com/watch?v=Vfm4uPESCoI)
+## Media and Handouts 
 
-## Preparation:
-- Ensure all of the computers have iMovie installed
-- Separate legos into separate boxes for the groups
+- N/A
 
-## Lesson:
+## Project Time 
 
-### REVIEW:
-_What is animation?_
-To animate means to bring to life. An animation is the process of making a stationary object appear to move on it's own.
+- 40 min
 
-_Why did the flipbook animation make it look like the characters were moving?_
-Afterimage makes it so that our eyes remember the previous picture for about 1/32 second after it is shown. That, combined with the new image, makes it appear as if it moving.
+## Introduce
 
+### HOOK:
+_What is a hinge?_
+A **hinge** is a type of bearing that connects two solid objects, typically allowing only a limited angle of rotation between them.
 
-### INTRODUCE:
-_What is stop motion animation?_
-Stop Motion animation is a process that is similar to the flipbook except that instead of flipping a page, the computer will be playing a series of pictures very quickly. An example of an upcoming movie that utilizes stop motion animation is the film Boxtrolls.
+### OBSERVE:
+As a class, chart out things that are “Hinges in the body” and “Not hinges in the body,” as well as “Hinges in the room” and “Not hinges in the room.”
 
-Over the next six weeks students will be creating their own stop motion animation videos. They will learn how to storyboard, create, and edit their videos. To start watch some examples.
+### GOALS:
+Today, students will learn how to build hinges on their robots. By the end of the lesson, students will have moveable parts on their robot.
 
-### WATCH:
-Show students the [Box Trolls Trailer](http://www.youtube.com/watch?v=Vfm4uPESCoI). When it is finished discuss the attention to detail and patience that goes into making a stop motion video. For further examples, any of the other video from the stop motion examples section above can be shown.
+## Guided Practice
 
-### CHECK FOR UNDERSTANDING:
-Share with a partner how the process for making a stop motion animation is similar to making a flipbook. 
+### THINK PAIR SHARE:
+With a partner, students will discuss how hinges could be useful for the robot that they are designing.
 
-### CREATE:
-Distribute the Stop Motion Challenge handout to students. The instructions for creating the first stop motion are:
+### PLAN:
+Students will go back to their blueprints and highlight where all of the hinges will be used in their designs.
 
-1. Place the first lego in the view of the camera
-2. Take a picture
-3. Add a lego
-4. Take a picture
-5. Repeats steps 3and 4 until you have at least 40 pictures and a full lego tower.
+### SHOW:
+Show students an example of how to connect cardboard pieces using the MakeDo hinges.
 
-### WATCH:
+## Explore
 
-To watch the stop motion:
+### PRACTICE:
+On some spare cardboard, students will practice putting together hinges.
 
-1. Select the first picture in Photobooth
-2. Hold the arrow keys on the keyboard to make the pictures animate just like the flipbook.
-
-### EXPLORE:
-If you finish, create a second animation of the tower falling apart or shrinking using the same process.
+### BUILD:
+Students will continue building their cardboard robots with a focus on adding the moveable parts.
