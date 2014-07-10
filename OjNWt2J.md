@@ -10,7 +10,7 @@ lessons:
 title: This is a Title
 org: 9dots
 id: "9dots-OjNWt2J"
-blurb: This is a summary of summaries. This is a summary of summaries. This is a summary of summaries. This is a summary of summaries.
+blurb: This is a summary of summaries this is a summary of summaries. This is a summary of summaries. This is a summary of summaries.
 
 ---
 
