@@ -4,7 +4,7 @@ views: 0
 published: false
 type: lesson
 title: "Interactive Art Wall: Foreground and Background"
-blurb: Students will learn how to make their murals three dimensional by using the concepts of foreground and background.
+blurb: "Students will learn how to make their #LittleBits murals three dimensional by using the concepts of foreground and background."
 org: 9dots
 objective: "By the end of the lesson, students will be able to explain the difference between background and foreground, and use those concepts to plan their mural to be three dimensional."
 id: "9dots-Ok1OXlb"
