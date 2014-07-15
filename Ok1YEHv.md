@@ -11,20 +11,20 @@ id: "9dots-Ok1YEHv"
 
 ---
 
-## Materials
+# Materials
 
 - Animal names to draw
 
-## Media and Handouts
+# Media and Handouts
 
 - Powerpoint presentation
 - Biomimicry worksheet
 
-## Preparation
+# Preparation
 
 - print worksheets
 
-## Project Time
+# Project Time
 
 - 40 minutes
 
