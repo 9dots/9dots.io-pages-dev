@@ -11,17 +11,23 @@ id: "9dots-OjYHvD7"
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - Cardboard
 - MakeDo pieces
 - Tape
 
-## Media and Handouts 
+### Media and Handouts:
 
 - N/A
 
-## Project Time 
+### Preparations:
+
+- N/A
+
+### Project Time:
 
 - 40 min
 
