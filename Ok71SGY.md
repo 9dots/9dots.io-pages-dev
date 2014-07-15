@@ -11,21 +11,21 @@ id: "9dots-Ok71SGY"
 
 ---
 
-## Materials
+# Materials
 
 - Posters
 - Markers
 
-## Media and Handouts
+# Media and Handouts
 
 - [Sales pitch clip](https://www.youtube.com/watch?v=h5xJrw_h5Nk)
 - Shark tank presentation handout
 
-## Preparation 
+# Preparation 
 
 - Write on the board:  What makes a good salesperson?
 
-## Project Time
+# Project Time
 
 - 40 minutes
 
