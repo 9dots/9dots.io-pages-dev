@@ -11,20 +11,22 @@ id: "9dots-Ok6mOes"
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - Pencils
 - Index cards
 
-## Media and Handouts
+### Media and Handouts:
 
 - Product design guide
 
-## Preparation
+### Preparation:
 
 - Print worksheets
 
-## Project Time
+### Project Time:
 
 - 40 minutes
 
