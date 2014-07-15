@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Shark Tank: Sales"
 blurb: "Students will learn about creating an effective sales pitch, and create a poster and presentation to sell their own products."
