@@ -11,22 +11,24 @@ id: "9dots-Ok1OXlb"
 
 ---
 
-## Materials
+## Setup
+
+### Materials:
 
 - Pencils
 
-## Media and Handouts
+### Media and Handouts:
 
 - Little Bits overview
 - Little Bits brainstorming handout
 - Foreground and Background handout
 
-## Preparation
+### Preparation:
 
 - Write the definitions of foregroud and background on the whiteboard
 - Pass out mural sketches to students
 
-## Project Time
+### Project Time:
 
 - 40 minutes
 
