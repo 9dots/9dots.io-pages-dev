@@ -8,6 +8,8 @@ objective: "By the end of the lesson, students will be able to finish editing th
 org: 9dots
 id: "9dots-OjNrFhy"
 blurb: "For the final day of the project, groups will make finish editing their videos by adding titles and touching up any additional sounds."
+image: "http://uploads.9dots.io/Okg8qWL_md.jpg"
+fullImage: "http://uploads.9dots.io/Okg8qWL.jpg"
 
 ---
 
