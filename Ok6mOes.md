@@ -8,6 +8,8 @@ blurb: "Students will take a more in-depth look at the process behind designing 
 org: 9dots
 objective: "By the end of the lesson, students will be able to define prototype, explain the process of design, and discuss the importance of iteration to that process."
 id: "9dots-Ok6mOes"
+image: "http://uploads.9dots.io/Okg9hO2_md.jpg"
+fullImage: "http://uploads.9dots.io/Okg9hO2.jpg"
 
 ---
 
