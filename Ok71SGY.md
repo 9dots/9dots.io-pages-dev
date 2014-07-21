@@ -8,8 +8,8 @@ blurb: "Students will learn about creating an effective sales pitch, and create 
 org: 9dots
 objective: "By the end of the lesson, students will be able to describe what makes an effective sales pitch, and create a presentation for selling their own products."
 id: "9dots-Ok71SGY"
-image: "http://uploads.9dots.io/Okgsl0E_md.jpg"
-fullImage: "http://uploads.9dots.io/Okgsl0E.jpg"
+image: "http://uploads.9dots.io/OkgtNQC_md.jpg"
+fullImage: "http://uploads.9dots.io/OkgtNQC.jpg"
 attachments: 
   - path: "http://uploads.9dots.io/Okg5PsZ.pdf"
     name: LittleBitsBrainstorm.pdf
