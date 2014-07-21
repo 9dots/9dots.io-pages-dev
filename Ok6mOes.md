@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Shark Tank: Design Process"
 blurb: "Students will take a more in-depth look at the process behind designing a product. They will then apply that methodology to their products."
