@@ -12,6 +12,8 @@ title: Cardboard Robots
 org: 9dots
 id: "9dots-OjNWt2J"
 blurb: This is a summary of summaries this is a summary of summaries. This is a summary of summaries. This is a summary of summaries.
+image: "http://uploads.9dots.io/OkgAfKN_md.jpg"
+fullImage: "http://uploads.9dots.io/OkgAfKN.jpg"
 
 ---
 
