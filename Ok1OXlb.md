@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: "Interactive Art Wall: Three Dimensions"
 blurb: "Students will learn how to make their #LittleBits murals three dimensional by using the concepts of foreground and background."
