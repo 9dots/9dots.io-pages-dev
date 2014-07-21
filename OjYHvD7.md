@@ -8,6 +8,8 @@ blurb: "Students will learn how to create moveable parts on their robots by addi
 org: 9dots
 objective: Objective
 id: "9dots-OjYHvD7"
+image: "http://uploads.9dots.io/Okg3mCI_md.jpg"
+fullImage: "http://uploads.9dots.io/Okg3mCI.jpg"
 
 ---
 
