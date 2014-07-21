@@ -10,6 +10,9 @@ objective: "By the end of the lesson, students will be able to describe what mak
 id: "9dots-Ok71SGY"
 image: "http://uploads.9dots.io/Okg3CHa_md.jpg"
 fullImage: "http://uploads.9dots.io/Okg3CHa.jpg"
+attachments: 
+  - path: "http://uploads.9dots.io/Okg5PsZ.pdf"
+    name: LittleBitsBrainstorm.pdf
 
 ---
 
