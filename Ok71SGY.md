@@ -8,7 +8,8 @@ blurb: "Students will learn about creating an effective sales pitch, and create 
 org: 9dots
 objective: "By the end of the lesson, students will be able to describe what makes an effective sales pitch, and create a presentation for selling their own products."
 id: "9dots-Ok71SGY"
-image: "http://uploads.9dots.io/Okg0OkF_md.jpg"
+image: "http://uploads.9dots.io/Okg3CHa_md.jpg"
+fullImage: "http://uploads.9dots.io/Okg3CHa.jpg"
 
 ---
 
