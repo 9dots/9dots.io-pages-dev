@@ -8,6 +8,8 @@ blurb: "Students will learn how to make their #LittleBits murals three dimension
 org: 9dots
 objective: "By the end of the lesson, students will be able to explain the difference between background and foreground, and use those concepts to plan their mural to be three dimensional."
 id: "9dots-Ok1OXlb"
+image: "http://uploads.9dots.io/OkglE2Q_md.jpg"
+fullImage: "http://uploads.9dots.io/OkglE2Q.jpg"
 
 ---
 
