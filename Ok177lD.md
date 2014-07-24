@@ -8,6 +8,8 @@ blurb: "Students will practice connecting #LittleBits to their projects using wi
 org: 9dots
 objective: "By the end of the lesson, students will be able to explain the importance of the Little Bits wires, and create a cardboard creature that incorporates hidden Little Bits pieces."
 id: "9dots-Ok177lD"
+image: "http://uploads.9dots.io/OkxeQlB_md.jpg"
+fullImage: "http://uploads.9dots.io/OkxeQlB_lrg.jpg"
 
 ---
 
