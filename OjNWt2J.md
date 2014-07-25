@@ -9,6 +9,7 @@ lessons:
   - "9dots-OjNrFhy"
   - "9dots-OjdSJn3"
   - "9dots-Ok71SGY"
+  - "9dots-Ok1YEHv"
 title: Cardboard Robots
 org: 9dots
 id: "9dots-OjNWt2J"
