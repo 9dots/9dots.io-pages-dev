@@ -46,6 +46,7 @@ _What makes a good sales person? What makes a bad one?_
 Chart out student responses on the whiteboard.
 
 ### Goal:
+<div class="modal"></div>
 Today, students will work on the sales pitch that they will give to the judges during the next lesson. By the end of the class, students will have finished a poster for their product, as well as practiced their presentation for the judges.
 
 ## Guided Practice
