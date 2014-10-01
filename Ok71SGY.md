@@ -3,7 +3,7 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-title: "Shark Tank: Sales"
+title: Something Else
 blurb: "Students will learn about creating an effective sales pitch, and create a poster and presentation to sell their own products."
 org: 9dots
 objective: "By the end of the lesson, students will be able to describe what makes an effective sales pitch, and create a presentation for selling their own products."
