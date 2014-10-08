@@ -17,76 +17,106 @@ attachments:
 ---
 
 ## Lesson Overview
-This project is a continuation of the Minecraft adventure from the [Minecraft Shelter](http://www.9dots.io/9dots/OqtrDDl) lesson. Students will use design thinking to develop a sustainable food source for their shelters. The planning process will take place on the [Design Thinking handout](http://uploads.9dots.io/OpIXxyC.docx). Once students have finalized their designs, they will create their farms in the game. For more information on how to provide students with materials check out this [Minecraftedu teacher cheat sheet](https://www.dropbox.com/s/ggi0lviuy58ws2w/Teacher%20Cheat%20Sheet.pdf?dl=0). To get more information on farming you can look at this [farming guide](http://minecraft.gamepedia.com/Tutorials/Crop_farming).
 
 ## Setup
 
-### Materials
+### Materials:
 
-- Computers with Minecraft installed
-- Sustainable food handout
+- Lego Mindstorm kit (with Touch Sensor)
+- Computer with EV3 software
+- Example touch sensor attachment
+- Iteration and wrap-up handout
 
-## Introduction
-Hand out materials and set the scene for the upcoming lesson.
+### Project Time:
 
-1. Project the [minecraft day 2 powerpoint](http://uploads.9dots.io/OpIXzSy.pptx)
-2. Distribute the [design thinking handout](http://uploads.9dots.io/OpIXxyC.docx)
-3. Review with students what has happened in their Minecraft adventure
-	- You have been shipwrecked on an island and discovered that there are monsters there. To help survive, your first task was to build shelter to protect yourself through the night and set up a home base for your crew.
+- 45 minutes
 
-## Empathize
-Discuss with students the current scenario their characters are in. On their handout, students will write how they feel and what they would be wanting.
+## Engage
+Relate human senses to robotic sensors and discuss how those senses can be used to react to external stimuli. Then, explain the goal for this lesson.
 
-1. Explain the situation
-	- Supplies are starting to run low, especially food
-	- Students have a small supply of seed and materials to build a hoe
-	- There are still monsters roaming around on the island
+1. Discuss with students how people use their senses to react to their environment.
+	- _What do people do if they bump into a wall?_
+		Answers should include: stop walking, turn around, or back up.
+
+	- _Which of your senses do you use to know that you are touching the wall?_
+		The sense of touch is how a person knows that they have run into a wall.
+
+2. Explain that the robot uses sensors to mimic human senses and allow it to react to its surroundings.
+	- The touch sensor can let the robot know when it has run into a wall.
+
+2. The goal of the day will be to make a robot that can run into as many walls as possible in 1 minute.
+
+## Explore
+Review the definition of an attachment for a robot and then give students time to create a touch sensor attachment.
+
+1. This attachment will not be used at the same time as their push attachments. Different attachments are used to solve different problems.
+
+2. Students have ten minutes to attempt to attach the touch sensor to their robot. The touch sensor should be connected to the front of their robot so that when it runs into a wall it will get pressed.
+
+## Explain
+Start out by reviewing what they already know about programming the robot. Then, discuss what behaviors are necessary to accomplish the goal for today. Finally, show them how to program those behaviors and play a game to reinforce learning.
+
+1. Revisit the options associated with the move block that they learned previously, specifically the steering and the duration.
+![](http://uploads.9dots.io/OiQh9jS_md.jpg) 
+
+2. To accomplish the goal for today there are four necessary behaviors:
+
+    1. Make the robot move forward forever
+    2. Wait for the touch sensor to be activated
+    3. Turn
+    4. Repeat steps 1-3
+
+3. To accompish the first behavior the duration on the move block must be changed to **on**. This makes the robot move for an unlimited amount of time like referenced in the image below.
+![](http://uploads.9dots.io/OiQhIX8_md.jpg) 
+
+4. The Wait block means that we continue whatever comes before the block until the touch sensor gets pressed.
+![](http://uploads.9dots.io/OiQj0Nu_md.jpg) 
+
+5. Students will remember from the previous lesson to use the Move Steering block to turn.
+
+6. The Loop block means that any blocks within the loop are repeated forever.
+![](http://uploads.9dots.io/OiQjPzY_md.jpg) 
+
+7. Play a game of Mindstorm Says. To play, draw the programming blocks onto pieces of paper. Tape the paper in different orders to review with the students what each programming block accomplishes. Sample rules are:
+
+    - **Move block:** Walk in place.
+        - For each rotation specified the students take 1 step.
+        - If the paper says unlimited the students continue to walk in place until told otherwise.
+    - **Wait block with touch sensor:** A tap on the head activates the student’s touch sensor. Students will now move on to the next step in the program.
+    - **Loop:** Any parts of the program that are between the start and end of loop pages should be repeated until the teacher says to stop.
+![](http://uploads.9dots.io/OiQkWO7_md.jpg) 
+**In the example above, students would take 2 steps, wait to be tapped on the head, and then repeat that process until they are told the program is finished.**
+
+8. Check for understanding by asking some follow up questions.
+
+	- _How can using the wait block help them to achieve their goal?_
     
-2. Students will write how their characters are feeling in this situation
+	By combining the move block with the wait block, the students can program their robot to move forward indefinitely until the touch sensor is triggered.
+![](http://uploads.9dots.io/OiQnPLd_md.jpg) 
 
-## Define
-Time do define the problem that students will solve during this session of the game.
+	- _How can the loop block be utilized?_
+	
+    The loop can ensure that their robot continues to bounce off walls continuously without having to restart the program. Anything inside of the loop will be repeated forever (or until the ‘stop’ button is pushed on the robot).
+![](http://uploads.9dots.io/OiQnT0b_md.jpg) 
 
-1. Students will discuss with a partner what they feel is the biggest problem that they are facing right now
-2. Guide students to the idea that creating a sustainable food source should be their first priority
-3. Students will write their problem definition on the handout
-	- An example problem statement could be, "There is no system in place for gathering food safely."
+## Elaborate
+This time will be used to program the robot and add final touches to the touch sensor attachment that is connected to the robot.
 
-## Ideate
-Students will develop a design solution to the problem they have just defined.
+1. Each group now has 35 minutes to finish building an attachment and program the robot to bounce off as many walls as possible in 1 minute. 
 
-1. Discuss with students possible solutions to their problem
-	- What are some possible solutions to solving the problem that students identified?
-    - Are there some solutions that would be more sustainable than others? 
-    - How would you apply these ideas in Minecraft?
+2. Students can test their robots at any point during the building time.
+	- After each attempt, students should write down what worked and what they should change using the iteration log handout. 
 
-2. With the supplies that they have, a wheat farm is the best choice for the students
-	- To create a wheat farm, you will first need to dig an irrigation ditch for water 
-    - The wheat will only grow within 4 blocks of a water source and the dirt has to be tilled using a hoe.
-    - Put a fence around your farm to make sure your crops don’t get trampled
-	- Torches will allow your crops to grow better at night
-    
-3. Using the handout, students will draw a diagram of their proposed farm, including labels for the wheat, water, and fences.
+## Evaluate
+Students will test their programs by competing in a game of Mindstorm Pinball (the rules are listed below). When they have finished, students will discuss their engineering designs and fill out the robotics wrap-up handout.
 
-![](http://uploads.9dots.io/OpIZwgm_md.jpg) 
+1. At the end of the allotted time, students will test their robots by playing a game of Mindstorm Pinball.  To play, create a square playing area with walls on all four sides.  Place the robot in the center and set a timer for 1 minute. Points will be awarded for each wall that the robot can touch within that time limit.
+  - 1st time bouncing off of a wall: 10 points
+  - 2nd time bouncing off of the same wall:  5 points
+  - 3rd + time bouncing off of the same wall: 1 point
+  - 50 bonus point each time all four walls are hit
 
-## Prototype
-Time to go into Minecraft and try out the solutions that students have developed. 
+2. Discuss with students, "_How important was the placement of the touch sensor?_"
+	The placement of the the touch sensor is very important because if it is not in a place where it will get bumped, the robot will not be successful.
 
-1. Everyone will log in to Minecraft
-2. With a teacher account, provide everyone with materials
-	- 10 seeds
-    - 2 buckets of water
-    - 10 bonemeal
-    - 4 torches
-    - 1 hoe
-    - 30 fences
-3. Students should work to create their farm and expand it as necessary
-
-## Standards
-
-Standard | Description | Connection
---- | --- | ---
-3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost. | Define
-3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Ideate
-MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Prototype
+3. Students will fill in the robotics wrap-up handout.
