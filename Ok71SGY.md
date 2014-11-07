@@ -3,10 +3,10 @@ author: danleavitt0
 views: 0
 published: true
 type: lesson
-title: Something Else
-blurb: "Students will learn about creating an effective sales pitch, and create a poster and presentation to sell their own products."
+title: ""
+blurb: "This lesson provides an introduction to robotics and specifically the engineering side of building a robot. To start, students will learn about engineers and watch a brief video about the process of engineering. Students will then build a robot using the instructions provided in the attachments."
 org: 9dots
-objective: "By the end of the lesson, students will be able to describe what makes an effective sales pitch, and create a presentation for selling their own products."
+objective: ""
 id: "9dots-Ok71SGY"
 image: "http://uploads.9dots.io/OkyaANf_md.jpg"
 fullImage: "http://uploads.9dots.io/OkyaANf_lrg.jpg"
@@ -16,6 +16,7 @@ attachments:
 
 ---
 
+By the end of the lesson, students will be able to define a structural wall and demonstrate learning by creating a sturdy #tower capable of holding weight.
 ## Lesson Overview
 
 ## Setup
