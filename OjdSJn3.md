@@ -4,9 +4,11 @@ views: 0
 published: true
 type: lesson
 title: "Cardboard Robots: Finish Building"
-blurb: Students will be able to demonstrate an understanding of building from a design as they finish building their cardboard robots
+blurb: ""
 org: 9dots
-objective: "By the end of the lesson, students will be able to demonstrate learning by completing their robot according to their designs."
+objective: 
+  - One
+  - Two
 id: "9dots-OjdSJn3"
 image: "http://uploads.9dots.io/Okg3O9z_md.jpg"
 fullImage: "http://uploads.9dots.io/Okg3O9z.jpg"
