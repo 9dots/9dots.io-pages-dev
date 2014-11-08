@@ -9,7 +9,6 @@ org: 9dots
 objective: 
   - one
   - two
-  - three
 id: "9dots-OjdSJn3"
 image: "http://uploads.9dots.io/Okg3O9z_md.jpg"
 fullImage: "http://uploads.9dots.io/Okg3O9z.jpg"
