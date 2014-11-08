@@ -7,8 +7,10 @@ title: "Interactive Art Wall: Three Dimensions"
 blurb: "Students will learn how to make their #LittleBits murals three dimensional by using the concepts of foreground and background."
 org: 9dots
 objective: 
-  - this is a test
-  - and it is cool
+  - one
+  - two
+  - three
+  - four
 id: "9dots-Ok1OXlb"
 image: "http://uploads.9dots.io/OkglE2Q_md.jpg"
 fullImage: "http://uploads.9dots.io/OkglE2Q.jpg"
