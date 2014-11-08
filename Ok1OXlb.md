@@ -6,7 +6,9 @@ type: lesson
 title: "Interactive Art Wall: Three Dimensions"
 blurb: "Students will learn how to make their #LittleBits murals three dimensional by using the concepts of foreground and background."
 org: 9dots
-objective: "By the end of the lesson, students will be able to explain the difference between background and foreground, and use those concepts to plan their mural to be three dimensional."
+objective: 
+  - this is a test
+  - and it is cool
 id: "9dots-Ok1OXlb"
 image: "http://uploads.9dots.io/OkglE2Q_md.jpg"
 fullImage: "http://uploads.9dots.io/OkglE2Q.jpg"
