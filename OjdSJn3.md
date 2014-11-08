@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: "Cardboard Robots: Finish Building"
-blurb: ""
+blurb: This is a lesson overview where I write stuff. This is a lesson overview where I write stuff. This is a lesson overview where I write stuff. This is a lesson overview where I write stuff. This is a lesson overview where I write stuff. This is a lesson overview where I write stuff.
 org: 9dots
 objective: 
   - "Michael doesn't care"
