@@ -6,7 +6,8 @@ type: lesson
 title: "Shark Tank: Design Process"
 blurb: "Students will take a more in-depth look at the process behind designing a product. They will then apply that methodology to their products."
 org: 9dots
-objective: "By the end of the lesson, students will be able to define prototype, explain the process of design, and discuss the importance of iteration to that process."
+objective: 
+  - One
 id: "9dots-Ok6mOes"
 image: "http://uploads.9dots.io/OkybfK7_md.jpg"
 fullImage: "http://uploads.9dots.io/OkybfK7_lrg.jpg"
