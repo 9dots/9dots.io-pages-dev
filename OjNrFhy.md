@@ -4,7 +4,8 @@ views: 0
 published: true
 type: lesson
 title: "Editing: Finish Project"
-objective: "By the end of the lesson, students will be able to finish editing their videos by completing the editing checklist, and use a title to show the ending credits for their movie."
+objective: 
+  - edit a stop motion video
 org: 9dots
 id: "9dots-OjNrFhy"
 blurb: "For the final day of the project, groups will make finish editing their videos by adding titles and touching up any additional sounds."
