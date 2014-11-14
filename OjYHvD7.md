@@ -6,7 +6,8 @@ type: lesson
 title: "Cardboard Robots: Moving Parts"
 blurb: "Students will learn how to create moveable parts on their robots by adding #MakeDo hinges. I have to finish writing to see how much space it"
 org: 9dots
-objective: Objective
+objective: 
+  - Objective 1
 id: "9dots-OjYHvD7"
 image: "http://uploads.9dots.io/OkyixKe_md.jpg"
 fullImage: "http://uploads.9dots.io/OkyixKe_lrg.jpg"
