@@ -7,7 +7,9 @@ title: "Shark Tank: Design Process"
 blurb: "Students will take a more in-depth look at the process behind designing a product. They will then apply that methodology to their products."
 org: 9dots
 objective: 
-  - One
+  - one
+  - two
+  - three
 id: "9dots-Ok6mOes"
 image: "http://uploads.9dots.io/OkybfK7_md.jpg"
 fullImage: "http://uploads.9dots.io/OkybfK7_lrg.jpg"
