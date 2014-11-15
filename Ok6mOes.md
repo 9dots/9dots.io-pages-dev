@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: "Shark Tank: Design Process"
-blurb: "Students will take a more in-depth look at the process behind designing a product. They will then apply that methodology to their products."
+blurb: "Students will take a more in-depth look at the process behind designing a product. They will then apply that methodology to their products. Typing more will make this text box grow."
 org: 9dots
 objective: 
   - one
