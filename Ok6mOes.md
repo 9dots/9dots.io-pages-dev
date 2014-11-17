@@ -4,7 +4,7 @@ views: 0
 published: true
 type: lesson
 title: "Shark Tank: Design Process"
-blurb: "In Minecraft Day 1(http://www.9dots.io/9dots/OqtrDDl) students built shelters for survival. In Minecraft Day 2(http://www.9dots.io/9dots/OpIX5X6), students learned how to farm their own food. Now, students will gain the skills required to build tools and various survival resources. A link for the crafting guide is listed below. \n\nFor more information on crafting check out this Crafting Guide(http://www.minecraft-crafting.net/)"
+blurb: "In [Minecraft Day 1](http://www.9dots.io/9dots/OqtrDDl) students built shelters for survival. In [Minecraft Day 2](http://www.9dots.io/9dots/OpIX5X6), students learned how to farm their own food. Now, students will gain the skills required to build tools and various survival resources. A link for the crafting guide is listed below. \n\nFor more information on crafting check out this [Crafting Guide](http://www.minecraft-crafting.net/)"
 org: 9dots
 objective: 
   - mine for stuff
