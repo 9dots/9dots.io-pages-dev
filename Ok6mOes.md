@@ -4,12 +4,10 @@ views: 0
 published: true
 type: lesson
 title: "Shark Tank: Design Process"
-blurb: "Students will take a more in-depth look at the process behind designing a product. They will then apply that methodology to their products. Typing more will make this text box grow."
+blurb: "In [Minecraft Day 1](http://www.9dots.io/9dots/OqtrDDl) students built shelters for survival. In [Minecraft Day 2](http://www.9dots.io/9dots/OpIX5X6), students learned how to farm their own food. Now, students will gain the skills required to build tools and various survival resources. A link for the crafting guide is listed below. \n\nFor more information on crafting check out this [Crafting Guide](http://www.minecraft-crafting.net/)"
 org: 9dots
 objective: 
-  - one
-  - two
-  - three
+  - mine for and construct essential items for survival in Minecraft
 id: "9dots-Ok6mOes"
 image: "http://uploads.9dots.io/OkybfK7_md.jpg"
 fullImage: "http://uploads.9dots.io/OkybfK7_lrg.jpg"
@@ -18,58 +16,55 @@ fullImage: "http://uploads.9dots.io/OkybfK7_lrg.jpg"
 
 ## Setup
 
-### Materials:
+### Materials
 
-- Pencils
-- Index cards
+- Computers with Minecraft installed
+- Minecraft Mining handout
+- Minecraft Mining powerpoint
 
-### Media and Handouts:
+## Empathize
+Day 3 of your Minecraft adventure. Students will engage in design thinking to solve their problem of limited resources. As the instructor, supply students with a pick axe to allow them to quickly mine for materials.
 
-- Product design guide
+1. You’ve survived 2 days! You have managed to make shelter, harvest food, and now your task is even greater. You’re resources are running low and your shelters are bare and unsustainable. It is time you begin mining and gathering your own materials to begin crafting goods. 
 
-### Preparation:
+2. Discussion question: Why is this day important? What real-world scenarios can this relate to?
 
-- Print worksheets
+## Define
+Though we have shelter, resources are limited, so we must rely on our environment and crafting resources. 
 
-### Project Time:
+1. Students discuss with partners what the problem is and they should write a problem statement on their worksheet. 
 
-- 40 minutes
+## Ideate
+1. Students will use the dedicated space in the [Day 3: Shelter Handout](http://uploads.9dots.io/Or0vuHE.gdoc) to begin to write down items they think will be necessary.
 
-## Introduce
+2. After initial input, students will open the [Crafting Resource Guide](http://www.minecraft-crafting.net/). Instruct students they must craft the following:
+	- Crafting table
+	- Bed
+	- Boat 
+	- Stone slabs
+	- Wooden slabs
+    - Compass
 
-### Hook:
-_Do you think that engineers always design their products exactly how they want them on the first try? How long do you think it takes to design a product?_
+3. Using the [Crafting Resource Guide](http://www.minecraft-crafting.net/), students will write down the "ingredients" required for each item to be constructed on their [Day 3: Shelter Handout](http://uploads.9dots.io/Or0vuHE.gdoc).
 
-### Guess:
-Give each student three index card to write their guess for how long it took to design the following products:
+## Prototype
+After having learned how to define their inputs for various tools and resources, students will begin to mine for materials in Minecraft and construct their tools.
 
-- a new car model
-- iPhone
-- Velcro
+1. Students will login to Minecraft as a Student.
 
-### Reveal:
-The answer are:
+2. Students will work together to find the materials needed and begin crafting their required list of materials. 
 
-- new car model - 3 years
-- iPhone - 5 years
-- Velcro - 10 years
+## Test/Feedback
+Discussion questions:
 
-## Guided Practice
+- Were you successful in mining? 
+- What challenges did you run into as you were playing? 
+- Why was this a necessary skill to learn? 
+- How did you work together to make this process easier?
 
-### Discuss:
-_Why does the design proces take so long?_
-There are a lot of steps to designing a product. It is important to go through a lot of iterations (versions) and continue to make changes to design the best product possible.
-
-### Explain:
-Today, students will brainstorm products that are inspired by the animals that they chose last time in class.  They will then begin to refine their designs so we make the best product possible.
-
-## Explore
-
-### Written:
-Go through packet one page at a time as a group.  Explain each page, and then have kids fill it out. As the group reaches new vocab words, define the words as a class.
-
-**Prototype:**  an early version of a product design, meant to be replicated or learned from
-
-**Iterate:** To repeat
-
-**Elaborate:**  To develop details
+## Standards
+Standard | Description | Connection
+--- | --- | ---
+3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost. | Define
+3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Ideate
+MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Prototype
