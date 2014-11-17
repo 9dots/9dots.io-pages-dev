@@ -8,6 +8,8 @@ blurb: "Students will learn how to [create](http://www.google.com) moveable part
 org: 9dots
 objective: 
   - two
+  - one
+  - three
 id: "9dots-OjYHvD7"
 image: "http://uploads.9dots.io/OkyixKe_md.jpg"
 fullImage: "http://uploads.9dots.io/OkyixKe_lrg.jpg"
