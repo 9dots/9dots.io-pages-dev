@@ -4,12 +4,11 @@ views: 0
 published: true
 type: lesson
 title: "Cardboard Robots: Moving Parts"
-blurb: "Students will learn how to [create](http://www.google.com) moveable parts on their robots by adding #MakeDo hinges. I have to finish writing to see how much space it"
+blurb: "Students will use Minecraft to engage in daily challenges and work as a collaborative community to achieve various challenges. Minecraft is an online interactive role playing game. The instructor will set up Minecraft in a server and turn on Survival Mode. Link for gameplay instructions are listed below. \n[Minecraft Guide](http://www.wikihow.com/Play-Minecraft)"
 org: 9dots
 objective: 
-  - two
-  - one
-  - three
+  - Design and construct a shelter in order to set up a community in Minecraft
+  - Explain what the ideate step of the design process is
 id: "9dots-OjYHvD7"
 image: "http://uploads.9dots.io/OkyixKe_md.jpg"
 fullImage: "http://uploads.9dots.io/OkyixKe_lrg.jpg"
@@ -18,51 +17,63 @@ fullImage: "http://uploads.9dots.io/OkyixKe_lrg.jpg"
 
 ## Setup
 
-### Materials:
+### Materials
 
-- Cardboard
-- MakeDo pieces
-- Tape
+- Computers with Minecraft installed
+- Minecraft Shelter handout
+- Minecraft Shelter powerpoint
 
-### Media and Handouts:
+## Empathize
+Day 1 of your Minecraft adventure. Review design thinking as a process to identify and solve problems in one's community. 
 
-- N/A
+1. Go through each term and ask for a student defintions. After, have students write down each definition in their handout. 
+	- Empathize: The work you do to understand people, within the context of your design challenge; gives confidence you are working on a meaningful problem
+	- Define: Based on what you know, craft a meaningful problem statement; brings clarity and focus to the design space
+	- Ideate: concentrate on idea generation; design many diverse solutions to develop and test
+	- Prototype: Begin building; gives confidence that your solution meets the need you uncovered
+	- Test: show don’t tell and always get feedback.
 
-### Preparations:
+2. Introduce scenario: You’ve crashed! You and your crew are shipwrecked on a mysterious island with limited supplies. You only know one thing about this island: it is covered with MONSTERS! Though this is scary, they only come out at night. Today you must work together to build a shelter before nightfall. Your shelter must include:
+	- A threshold to enter and exit the shelter
+	- 4 walls (at least)
+	- Space for windows and looking outside 
+	- Roof
+	- Light (lanterns)
 
-- N/A
+3. Discussion question: How do you think it would feel to be in this situation?
 
-### Project Time:
+## Define
+Survival has been turned on in our server, meaning shelter is required. 
 
-- 40 min
+1. Turn [Survival Mode](http://www.wikihow.com/Play-Minecraft) on (directions listed under #2 of the wikilink).
+2. Students discuss with partners what the problem is and they should write a problem statement on their worksheet. 
 
-## Introduce
+## Ideate
+1. Students will use the dedicated space in the [Day 1: Shelter Handout](http://uploads.9dots.io/Or0DeLh.gdoc) to begin to design their shelters. Students should draw in squares, since they will be using only cubes in the Minecraft world.
 
-### HOOK:
-_What is a hinge?_
-A **hinge** is a type of bearing that connects two solid objects, typically allowing only a limited angle of rotation between them.
+2. Students will think about how big their house should be, where to place their windows and door, how large their shelter will be, etc. 
 
-### OBSERVE:
-As a class, chart out things that are “Hinges in the body” and “Not hinges in the body,” as well as “Hinges in the room” and “Not hinges in the room.”
+3. Discuss which partner will construct what when gameplay begins (collaboration is critical).
 
-### GOALS:
-Today, students will learn how to build hinges on their robots. By the end of the lesson, students will have moveable parts on their robot.
+## Prototype
+After having developed their ideas and designs, students will construct their shelters in Minecraft.
 
-## Guided Practice
+1. Students will login to Minecraft as a Student.
 
-### THINK PAIR SHARE:
-With a partner, students will discuss how hinges could be useful for the robot that they are designing.
+2. Students will work together to build their structures using the resources supplied by the instructor. It is important students build efficiently as danger approaches during the night. 
 
-### PLAN:
-Students will go back to their blueprints and highlight where all of the hinges will be used in their designs.
+## Test/Feedback
+Discussion questions:
 
-### SHOW:
-Show students an example of how to connect cardboard pieces using the MakeDo hinges.
+- Were you successful in building your shelter? Why or why not? 
+- What challenges did you run into during gameplay? 
+- What would you change about your shelter in the future? 
 
-## Explore
+## Standards
+Standard | Description | Connection
+--- | --- | ---
+3-5-ETS1-1 | Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost. | Define
+3-5-ETS1-2 | Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem. | Ideate
+MS-ETS1-2 | Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem. | Prototype
 
-### PRACTICE:
-On some spare cardboard, students will practice putting together hinges.
-
-### BUILD:
-Students will continue building their cardboard robots with a focus on adding the moveable parts.
+<a id='handouts'></a>
