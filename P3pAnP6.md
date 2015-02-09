@@ -1,7 +1,7 @@
 ---
 author: danleavitt0
 views: 0
-published: false
+published: true
 type: lesson
 title: test
 blurb: Stuff
@@ -28,4 +28,4 @@ How does it work?...
 Continue with new information...
 
 ## Evaluate
-Check for understanding... 
+Check for understanding...
